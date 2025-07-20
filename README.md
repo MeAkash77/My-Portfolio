@@ -17,7 +17,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](<img width="944" height="440" alt="Image" src="https://github.com/user-attachments/assets/c87920b4-7f1c-467e-82ce-0ab0e605989c" />)
+![Portfolio Demo]<img width="944" height="440" alt="Image" src="https://github.com/user-attachments/assets/c87920b4-7f1c-467e-82ce-0ab0e605989c" />
 
 ---
 
